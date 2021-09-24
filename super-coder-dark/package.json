@@ -1,0 +1,21 @@
+{
+    "name": "super-coder-dark",
+    "displayName": "Super Coder Dark",
+    "description": "super Coder Theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Super Coder Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Super Coder Dark-color-theme.json"
+            }
+        ]
+    }
+}
