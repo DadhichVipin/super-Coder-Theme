@@ -3,6 +3,7 @@
     "displayName": "Super Coder Dark",
     "description": "super Coder Theme!",
     "version": "1.0.1",
+    "publisher": "VipinDadhich",
     "engines": {
         "vscode": "^1.60.0"
     },
