@@ -17,8 +17,7 @@
 
 #
 
-![App Screenshot]([https://bn02pap001files.storage.live.com/y4mjAEL3vs9VZrW7RqNL_1BJ_r2_25iitPjrGzZivM0o4tXFA_cYU8x6IqUi9fYUgyBhAUTy2q2NuiLoxJ6yX5SbGqHQU19Ses74dBPa7gtNi2n6bD839z0FSy6BIulgoD8sdR8rxv2PpEtlx3LnhB02bCInkfFPtUX1tiCzY6hA0oatASN_zm4jMaepBXu84Ks?width=1388&height=1040&cropmode=none](https://drive.google.com/file/d/1ElzEkM235nNi6F-M9mKRU35Kg39oF-rp/view?usp=sharing))
-
-                  
+                 
+![Screenshot from 2024-09-06 15-44-55](https://github.com/user-attachments/assets/254b7c35-d325-452b-8f11-34617252756a)
 
   
